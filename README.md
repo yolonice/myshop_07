@@ -1,6 +1,6 @@
 # shop
 
-## Project setup
+## Project setup-01
 ```
 npm install
 ```
